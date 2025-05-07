@@ -39,7 +39,7 @@ This project uses the following technologies:
 ## 📝 How to Use
 
 1. **Prepare the dataset:**
-    - Download the dataset from Kaggle: [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+    - Download the dataset from Kaggle: [Medical Cost Personal Dataset]([https://www.kaggle.com/datasets/mirichoi0218/insurance](https://www.kaggle.com/competitions/playground-series-s4e12/))
     - Place your dataset inside the `data/` folder.
 
 2. **Train the model:**
